@@ -1,0 +1,9 @@
+# never commit router/controller exports or secrets
+*.xml
+*.unf
+*.supp
+*.tar.gz
+topic
+.secrets/
+*.key
+*_ed25519*
